@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.5b989a3b.chunk.css",
-    "main.js": "/static/js/main.56dd42df.chunk.js",
-    "main.js.map": "/static/js/main.56dd42df.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1af421be.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1af421be.js.map",
-    "static/js/2.2880c881.chunk.js": "/static/js/2.2880c881.chunk.js",
-    "static/js/2.2880c881.chunk.js.map": "/static/js/2.2880c881.chunk.js.map",
-    "static/js/3.4f47027c.chunk.js": "/static/js/3.4f47027c.chunk.js",
-    "static/js/3.4f47027c.chunk.js.map": "/static/js/3.4f47027c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.5b989a3b.chunk.css.map": "/static/css/main.5b989a3b.chunk.css.map",
-    "static/js/2.2880c881.chunk.js.LICENSE.txt": "/static/js/2.2880c881.chunk.js.LICENSE.txt",
-    "static/media/FirstScreen.module.css": "/static/media/1st-screen-background.bcbb8b68.svg",
-    "static/media/amazon.95e4b373.svg": "/static/media/amazon.95e4b373.svg",
-    "static/media/game-frame.11c814aa.svg": "/static/media/game-frame.11c814aa.svg",
-    "static/media/logo.8b9995f0.svg": "/static/media/logo.8b9995f0.svg",
-    "static/media/shopify.2b8d6799.svg": "/static/media/shopify.2b8d6799.svg",
-    "static/media/volusion.704789a7.png": "/static/media/volusion.704789a7.png",
-    "static/media/zencart.0e156f31.png": "/static/media/zencart.0e156f31.png"
+    "main.css": "/playthem-test/static/css/main.6d436c41.chunk.css",
+    "main.js": "/playthem-test/static/js/main.9879cc80.chunk.js",
+    "main.js.map": "/playthem-test/static/js/main.9879cc80.chunk.js.map",
+    "runtime-main.js": "/playthem-test/static/js/runtime-main.e2fc82aa.js",
+    "runtime-main.js.map": "/playthem-test/static/js/runtime-main.e2fc82aa.js.map",
+    "static/js/2.0aa0e6d9.chunk.js": "/playthem-test/static/js/2.0aa0e6d9.chunk.js",
+    "static/js/2.0aa0e6d9.chunk.js.map": "/playthem-test/static/js/2.0aa0e6d9.chunk.js.map",
+    "static/js/3.8fe990a6.chunk.js": "/playthem-test/static/js/3.8fe990a6.chunk.js",
+    "static/js/3.8fe990a6.chunk.js.map": "/playthem-test/static/js/3.8fe990a6.chunk.js.map",
+    "index.html": "/playthem-test/index.html",
+    "static/css/main.6d436c41.chunk.css.map": "/playthem-test/static/css/main.6d436c41.chunk.css.map",
+    "static/js/2.0aa0e6d9.chunk.js.LICENSE.txt": "/playthem-test/static/js/2.0aa0e6d9.chunk.js.LICENSE.txt",
+    "static/media/FirstScreen.module.css": "/playthem-test/static/media/1st-screen-background.bcbb8b68.svg",
+    "static/media/amazon.95e4b373.svg": "/playthem-test/static/media/amazon.95e4b373.svg",
+    "static/media/game-frame.11c814aa.svg": "/playthem-test/static/media/game-frame.11c814aa.svg",
+    "static/media/logo.8b9995f0.svg": "/playthem-test/static/media/logo.8b9995f0.svg",
+    "static/media/shopify.2b8d6799.svg": "/playthem-test/static/media/shopify.2b8d6799.svg",
+    "static/media/volusion.704789a7.png": "/playthem-test/static/media/volusion.704789a7.png",
+    "static/media/zencart.0e156f31.png": "/playthem-test/static/media/zencart.0e156f31.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1af421be.js",
-    "static/js/2.2880c881.chunk.js",
-    "static/css/main.5b989a3b.chunk.css",
-    "static/js/main.56dd42df.chunk.js"
+    "static/js/runtime-main.e2fc82aa.js",
+    "static/js/2.0aa0e6d9.chunk.js",
+    "static/css/main.6d436c41.chunk.css",
+    "static/js/main.9879cc80.chunk.js"
   ]
 }
